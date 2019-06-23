@@ -19,13 +19,9 @@ from shelter_dashboard.views import dashboard, home, unburden, index, login, pas
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    #path('', home, name='home'),
-    #path('login/', login, name='login'),
+    path('', login, name='login'),
     path('login/', login, name='login'),
-    path('login/forgot-password.html', password, name='password'),
-    #path('dashboard/', dashboard, name='dashboard'),
-    #path('unburden/', unburden, name='unburden'),
-    path('inicio/',index, name='template'),
     path('index/',index, name='index'),
-    path('inicio/forgot-password.html/', password, name='password'),
+    # path('dashboard/', dashboard, name='dashboard'),
+    # path('unburden/', unburden, name='unburden'),
 ]
