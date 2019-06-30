@@ -31,3 +31,6 @@ def password(request):
     data = {}
     return render(request, 'shelter_dashboard/rotas/forgot-password.html',data)
 
+def chat(request):
+    data = {}
+    return  render(request, 'shelter_dashboard/rotas/chat.html', data)
