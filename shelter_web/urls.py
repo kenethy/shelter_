@@ -15,14 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from shelter_dashboard.views import dashboard, home, unburden, index, login, password, chat
+from shelter_dashboard.views import dashboard, home, unburden, index, login, password, indicadores, chat
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', login, name='login'),
     path('login/', login, name='login'),
-    path('index/',index, name='index'),
-    path('chat/', chat, name='chat')
+    path('index/', index, name='index'),
+    path('indicadores/', indicadores, name='indicadores'),
+    path('chat/', chat, name='chat'),
     # path('dashboard/', dashboard, name='dashboard'),
     # path('unburden/', unburden, name='unburden'),
 ]
