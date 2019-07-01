@@ -29,8 +29,12 @@ def login(request):
 
 def password(request):
     data = {}
-    return render(request, 'shelter_dashboard/rotas/forgot-password.html',data)
+    return render(request, 'shelter_dashboard/rotas/forgot-password.html', data)
 
 def chat(request):
     data = {}
-    return  render(request, 'shelter_dashboard/rotas/chat.html', data)
+    return render(request, 'shelter_dashboard/rotas/chat.html', data)
+
+def indicadores(request):
+    data = {}
+    return render(request, 'shelter_dashboard/rotas/indicadores.html', data)
