@@ -33,8 +33,20 @@ def password(request):
 
 def chat(request):
     data = {}
-    return render(request, 'shelter_dashboard/rotas/chat.html', data)
+    return render(request, 'shelter_dashboard/rotas/chat2.html', data)
 
 def indicadores(request):
     data = {}
-    return render(request, 'shelter_dashboard/rotas/indicadores.html', data)
+    return render(request, 'shelter_dashboard/rotas/indicadores2.html', data)
+
+def config(request):
+    data = {}
+    return render(request, 'shelter_dashboard/rotas/blank2.html', data)
+
+def eventos(request):
+    data = {}
+    return render(request, 'shelter_dashboard/rotas/eventos.html', data)
+
+def treinamento(request):
+    data = {}
+    return render(request, 'shelter_dashboard/rotas/treinamentos.html',data)

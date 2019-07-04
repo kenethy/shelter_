@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from shelter_dashboard.views import dashboard, home, unburden, index, login, password, indicadores, chat
+from shelter_dashboard.views import dashboard, home, unburden, index, login, password, indicadores, chat, config, eventos, treinamento
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -24,6 +24,9 @@ urlpatterns = [
     path('index/', index, name='index'),
     path('indicadores/', indicadores, name='indicadores'),
     path('chat/', chat, name='chat'),
+    path('configuracoes/', config, name='configurações'),
+    path('eventos/', eventos, name='eventos'),
+    path('treinamentos/', treinamento, name='treinamentos'),
     # path('dashboard/', dashboard, name='dashboard'),
     # path('unburden/', unburden, name='unburden'),
 ]
