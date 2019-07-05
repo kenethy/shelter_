@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6740c7db-2520-44d6-b757-8730d10843e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelter_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelter_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_dashboard/static/temp2/css/chatCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_dashboard/static/temp2/css/chatCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/blank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chatCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chatCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/indicadores.html" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/indicadores.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_dashboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_dashboard/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_web/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shelter_dashboard/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="51" column="75" selection-start-line="51" selection-start-column="75" selection-end-line="51" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shelter_web/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+              <folding>
+                <element signature="e#635#667#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="161" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="161" />
+              <folding>
+                <element signature="n#src#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#div#1;n#div#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="71" />
+              <folding>
+                <element signature="n#src#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#div#1;n#div#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/treinamentos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="151" column="60" selection-start-line="151" selection-start-column="60" selection-end-line="151" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/blank2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="22" column="69" selection-end-line="221" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fas fa-la</find>
+      <find>Nav Item - Messages</find>
+      <find>so</find>
+      <find>soli</find>
+      <find>scro</find>
+      <find>sb-admin-2</find>
+      <find>rounded-circle u</find>
+      <find>ba</find>
+      <find>indic</find>
+      <find>Nav Item - Alerts</find>
+      <find>rounded</find>
+      <find>text-p</find>
+      <find>scroll-</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/indicadores.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/blank.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/index.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/eventos.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/static/temp2/css/eventos.css" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/indicadores2.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/static/temp2/css/chatCSS2.css" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chatCSS.css" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/static/temp2/css/chatCSS.css" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/blank2.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat2.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/treinamentos.html" />
+        <option value="$PROJECT_DIR$/shelter_dashboard/views.py" />
+        <option value="$PROJECT_DIR$/shelter_web/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shelter_dashboard/static/temp2/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\PycharmProjects\shelter_\shelter_dashboard\templates\shelter_dashboard\rotas" />
+      <recent name="C:\Users\Lucas\PycharmProjects\shelter_\shelter_dashboard\static\temp2\js" />
+      <recent name="C:\Users\Lucas\PycharmProjects\shelter_\shelter_dashboard\static\temp2\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\PycharmProjects\shelter_\shelter_dashboard\static\temp2\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6740c7db-2520-44d6-b757-8730d10843e5" name="Default Changelist" comment="" />
+      <created>1562168348308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562168348308</updated>
+      <workItem from="1562168357571" duration="17378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17378000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15204236" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.60883796" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/static/temp2/css/calendarioCSS.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/static/temp2/css/eventos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chatCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3791">
+          <caret line="223" column="1" selection-start-line="223" selection-start-column="1" selection-end-line="223" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="161" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="161" />
+          <folding>
+            <element signature="n#src#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#1;n#div#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1983">
+          <caret line="153" column="75" lean-forward="true" selection-start-line="153" selection-start-column="12" selection-end-line="153" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/indicadores2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2099">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/indicadores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1011">
+          <caret line="297" lean-forward="true" selection-start-line="297" selection-end-line="297" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/static/temp2/css/chatCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="223" column="1" selection-start-line="223" selection-start-column="1" selection-end-line="223" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/chat2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="71" />
+          <folding>
+            <element signature="n#src#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#1;n#div#3;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/blank2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="69" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/rotas/treinamentos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="151" column="60" selection-start-line="151" selection-start-column="60" selection-end-line="151" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_dashboard/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="51" column="75" selection-start-line="51" selection-start-column="75" selection-end-line="51" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <element signature="e#635#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
